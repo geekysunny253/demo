@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Divyaprakash Kumar
 
-🎓 B.Tech CSE @ GIFT Autonomous College, Bhubaneswar (5th Sem)  
+🎓 B.Tech CSE @ GIFT Autonomous College, Bhubaneswar (7th Sem)  
 📅 Expected Graduation: 2027  
 
 ## 🧠 Tech Stack So Far:
